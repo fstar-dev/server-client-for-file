@@ -1,5 +1,5 @@
 # File Server and Client
-A console file server and client application. It uses TCP protocol and RSA encryption.
+It uses TCP protocol and RSA encryption.
 
 Supports downloading/uploading/deleting files, creating/deleting directories, listing files & directories on the server and getting the server time.
 
